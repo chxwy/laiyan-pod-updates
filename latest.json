@@ -1,12 +1,12 @@
 {
-  "version": "1.1.4",
-  "display_version": "1.1.4",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.1.4.exe",
-  "sha256": "9C37BBD6CACBD5913CB11B987747DEAC93F649E70AE87DE72AB5883A5F3AA549",
+  "version": "1.1.5",
+  "display_version": "1.1.5",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.1.5.exe",
+  "sha256": "3E4A2B92C6B25ED368B64DB702F94BE4B35B1E9959681033857BA93BC9FBAA2F",
   "notes": [
-    "优化模板编辑器几何处理和底板编辑稳定性",
-    "优化图像处理与模板数据兼容细节",
-    "更新版本到 1.1.4"
+    "标题生成 API 默认配置独立打包，避免新版安装后缺少标题生成 Key。",
+    "优化模板与素材相关体验，并保留用户本地配置和数据。",
+    "更新版本到 1.1.5。"
   ],
   "force": false
 }
