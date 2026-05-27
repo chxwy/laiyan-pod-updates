@@ -1,12 +1,12 @@
 {
-  "version": "1.1.8",
-  "display_version": "1.1.8",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.1.8.exe",
-  "sha256": "8B76CE2AC2E2A60380481E28CEB3886EB8B4AFD103457EA5BDE29198DF236D34",
+  "version": "1.18",
+  "display_version": "1.18",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.18.exe",
+  "sha256": "084F5E69E657FCF123E7C57293FC235439690DC9940472579A09A19868F70F0E",
   "notes": [
     "优化底板模板与窗帘合成处理效果。",
     "完善批量处理与模板编辑相关稳定性。",
-    "更新版本到 1.1.8。"
+    "修正版本号为 1.18，恢复正常递增更新。"
   ],
-  "force": true
+  "force": false
 }
