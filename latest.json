@@ -1,12 +1,12 @@
 {
-  "version": "1.18",
-  "display_version": "1.18",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.18.exe",
-  "sha256": "084F5E69E657FCF123E7C57293FC235439690DC9940472579A09A19868F70F0E",
+  "version": "1.19",
+  "display_version": "1.19",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.19.exe",
+  "sha256": "DC22C50B9DE157F224B43958216362A3377214614147C16B1B24B00F98388C77",
   "notes": [
-    "优化底板模板与窗帘合成处理效果。",
-    "完善批量处理与模板编辑相关稳定性。",
-    "修正版本号为 1.18，恢复正常递增更新。"
+    "更新本次模板编辑、标题生成与批量处理调整。",
+    "优化窗帘/底板素材处理与打包资源。",
+    "修复若干稳定性与兼容性问题。"
   ],
   "force": false
 }
