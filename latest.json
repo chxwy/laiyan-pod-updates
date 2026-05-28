@@ -1,12 +1,12 @@
 {
-  "version": "1.19",
-  "display_version": "1.19",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.19.exe",
-  "sha256": "DC22C50B9DE157F224B43958216362A3377214614147C16B1B24B00F98388C77",
+  "version": "1.20",
+  "display_version": "1.20",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.20.exe",
+  "sha256": "DC09699D488129B45A9DC449219F1BC69F9DC83655F22653B92DBB086EEECB33",
   "notes": [
-    "更新本次模板编辑、标题生成与批量处理调整。",
-    "优化窗帘/底板素材处理与打包资源。",
-    "修复若干稳定性与兼容性问题。"
+    "更新本次功能与模板处理调整。",
+    "优化图片生成、标题生成与批量生产相关稳定性。",
+    "修复若干使用中的兼容性问题。"
   ],
   "force": false
 }
