@@ -1,12 +1,12 @@
 {
-  "version": "1.21",
-  "display_version": "1.21",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.21.exe",
-  "sha256": "18648E880D70497A74268FE94CA5DE8C33E0BEAD571AFBEEFD8F8E6F5035C384",
+  "version": "1.22",
+  "display_version": "1.22",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.22.exe",
+  "sha256": "94633712B4B51834BC1532CA67D70C1F77A9FC4713D6B0733AD343840DDCED1B",
   "notes": [
-    "更新 AI 图片生成与相关后台 worker 处理。",
-    "优化标题生成配置与界面交互稳定性。",
-    "修复若干模板与批量处理兼容问题。"
+    "优化本次界面资源与勾选状态显示。",
+    "完善 AI 图片生成与后台 worker 稳定性。",
+    "修复若干模板编辑与标题生成兼容问题。"
   ],
   "force": false
 }
