@@ -1,12 +1,12 @@
 {
-  "version": "1.23",
-  "display_version": "1.23",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.23.exe",
-  "sha256": "C4875ECA589E616BEE5E840EA4607D32C28079051626DA3F045EC3169B6146FB",
+  "version": "1.24",
+  "display_version": "1.24",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.24.exe",
+  "sha256": "500FB27C44169909145FED884E1FF6ECA0D484E746579221BDCCDC5E2F01BE01",
   "notes": [
-    "优化 AI 设置为生图模型与标题模型双标签页。",
-    "减少竞品裂变固定场景图重复处理，提升批量提交效率。",
-    "完善界面资源与相关稳定性。"
+    "修复源图文件存在但预览失败的问题，增加图片解码兜底。",
+    "生图并发与标题并发统一固定为 50，并自动纠正旧配置。",
+    "延续 AI 设置双标签页与竞品裂变提交效率优化。"
   ],
   "force": false
 }
