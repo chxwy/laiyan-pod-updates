@@ -1,7 +1,7 @@
 {
   "version": "1.25",
   "display_version": "1.25",
-  "url": "https://auth.03111214.xyz/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.25.exe",
+  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.25.exe",
   "sha256": "A26454D422B89EC81DF76B67144996DAF34EDDD0AE65FFE9DD0C05CE09C123E2",
   "notes": [
     "新增竞品裂变模板导入/导出分享包，固定场景图、通用图、输出顺序、比例和标题生成设置会一起保留。",
