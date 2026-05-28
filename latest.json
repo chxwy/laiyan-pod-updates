@@ -1,12 +1,12 @@
 {
-  "version": "1.22",
-  "display_version": "1.22",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.22.exe",
-  "sha256": "94633712B4B51834BC1532CA67D70C1F77A9FC4713D6B0733AD343840DDCED1B",
+  "version": "1.23",
+  "display_version": "1.23",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.23.exe",
+  "sha256": "C4875ECA589E616BEE5E840EA4607D32C28079051626DA3F045EC3169B6146FB",
   "notes": [
-    "优化本次界面资源与勾选状态显示。",
-    "完善 AI 图片生成与后台 worker 稳定性。",
-    "修复若干模板编辑与标题生成兼容问题。"
+    "优化 AI 设置为生图模型与标题模型双标签页。",
+    "减少竞品裂变固定场景图重复处理，提升批量提交效率。",
+    "完善界面资源与相关稳定性。"
   ],
   "force": false
 }
