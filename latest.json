@@ -1,13 +1,10 @@
 {
-  "version": "1.31",
-  "display_version": "1.31",
-  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.31.exe",
-  "sha256": "E7A00ABF55A2F9DF2A7844496FC7AC71C88268CAC65B7F665E655FF2A8E7B74E",
+  "version": "1.32",
+  "display_version": "1.32",
+  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.32.exe",
+  "sha256": "0B74E27EAF8D2D13130568AB0FBDA2D549A0B91B616D2FFECEBDBA79FF61C766",
   "notes": [
-    "新增透明底图生图裂变提示词，支持输出更适合后续套版的透明背景印花素材。",
-    "增强图生图安全改写规则，遇到品牌、角色、队标、相似造型等风险元素会自动拉开创意距离。",
-    "优化裂变提示词逻辑，强调保留安全商业意图而不是复制原图表达。",
-    "更新 AI 配置和测试覆盖，确保新提示词、渠道协议和结果解析保持稳定。"
+    "新增标题结果表格导出功能，生成标题后会同步输出 Excel 表格"
   ],
   "force": false
 }
