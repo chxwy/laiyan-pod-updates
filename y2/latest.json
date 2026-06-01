@@ -1,9 +1,9 @@
 {
-  "version": "1.9",
-  "display_version": "1.9",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2%E8%AE%A2%E5%8D%95%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7_%E5%AE%89%E8%A3%85%E5%8C%85.exe",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "notes": "Y2订单辅助工具远程更新通道已启用。当前版本无需更新。",
-  "published_at": "2026-06-01T10:00:00+08:00",
+  "version": "2.0",
+  "display_version": "2.0",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.exe",
+  "sha256": "1EB9BA21D925B0F1404709F63B2EF890443DAC29D45666E4508A36DD326EE1E6",
+  "notes": "接入远程更新能力，启动后自动检查新版本；下载更新包时会显示进度，并在安装前校验 SHA256。",
+  "published_at": "2026-06-01T10:15:00+08:00",
   "force": false
 }
