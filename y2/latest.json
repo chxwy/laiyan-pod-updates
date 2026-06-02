@@ -1,9 +1,9 @@
 {
-  "version": "2.0",
-  "display_version": "2.0",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.exe",
-  "sha256": "1EB9BA21D925B0F1404709F63B2EF890443DAC29D45666E4508A36DD326EE1E6",
-  "notes": "接入远程更新能力，启动后自动检查新版本；下载更新包时会显示进度，并在安装前校验 SHA256。",
-  "published_at": "2026-06-01T10:15:00+08:00",
+  "version": "2.0.1",
+  "display_version": "2.0.1",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.1.exe",
+  "sha256": "7e902a0c89ada2ae89365655e6a54b1e9228410704f761320bf0aaa61bb5d283",
+  "notes": "修复安装包漏带图床配置的问题，恢复其他用户的图片高清处理功能；保留远程更新下载进度和 SHA256 校验。",
+  "published_at": "2026-06-02T10:36:53+08:00",
   "force": false
 }
