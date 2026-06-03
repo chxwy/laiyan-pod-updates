@@ -1,12 +1,10 @@
 {
-  "version": "1.33",
-  "display_version": "1.33",
-  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.33.exe",
-  "sha256": "D0F664839766F36A030353BA1523A55E74D935BAADB84088C6F9DC99E2CBDE8A",
+  "version": "1.34",
+  "display_version": "1.34",
+  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.34.exe",
+  "sha256": "A4151962381C8A52E2F0F33BA056E82535EB873D82FA9E2F7AC7DC9E48C9A78F",
   "notes": [
-    "优化本地套图自动并发与内存保护，提升批量套图稳定性",
-    "优化官方模板和素材随安装包升级的同步策略",
-    "修复任务取消、编号状态、速度和预计剩余显示等细节问题"
+    "编号问题修复，其他细节优化"
   ],
   "force": false
 }
