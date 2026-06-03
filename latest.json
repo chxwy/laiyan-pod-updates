@@ -1,10 +1,12 @@
 {
-  "version": "1.32",
-  "display_version": "1.32",
-  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.32.exe",
-  "sha256": "0B74E27EAF8D2D13130568AB0FBDA2D549A0B91B616D2FFECEBDBA79FF61C766",
+  "version": "1.33",
+  "display_version": "1.33",
+  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.33.exe",
+  "sha256": "D0F664839766F36A030353BA1523A55E74D935BAADB84088C6F9DC99E2CBDE8A",
   "notes": [
-    "新增标题结果表格导出功能，生成标题后会同步输出 Excel 表格"
+    "优化本地套图自动并发与内存保护，提升批量套图稳定性",
+    "优化官方模板和素材随安装包升级的同步策略",
+    "修复任务取消、编号状态、速度和预计剩余显示等细节问题"
   ],
   "force": false
 }
