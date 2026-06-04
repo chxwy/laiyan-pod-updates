@@ -1,9 +1,9 @@
 {
-  "version": "2.0.4",
-  "display_version": "2.0.4",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.4.exe",
-  "sha256": "febacd7a79c0e7104e2c0fd2ef3c0f8ff79ab9d58bcb60b0c2f963481c766f00",
-  "notes": "修复 2.0.3 搜索时结果区出现大进度条的问题；安装包补充老用户迁移逻辑，更新时自动迁移旧目录配置、类目、模板和图片搜索缓存，并清理旧快捷方式，避免桌面出现两个图标。",
-  "published_at": "2026-06-04T11:07:21+08:00",
+  "version": "2.0.2",
+  "display_version": "2.0.2",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.2.exe",
+  "sha256": "e338ba7e942e21aefb5438d20d4998a6aa2a38302cc2418fb1ca3a38e40f27aa",
+  "notes": "临时回退到 2.0.2，暂停 2.0.3 和 2.0.4 更新包，避免用户误更新到存在问题的版本。",
+  "published_at": "2026-06-04T11:25:00+08:00",
   "force": false
 }
