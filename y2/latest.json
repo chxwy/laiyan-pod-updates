@@ -1,9 +1,9 @@
 {
-  "version": "2.0.2",
-  "display_version": "2.0.2",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.2.exe",
-  "sha256": "e338ba7e942e21aefb5438d20d4998a6aa2a38302cc2418fb1ca3a38e40f27aa",
-  "notes": "临时回退到 2.0.2，暂停 2.0.3 和 2.0.4 更新包，避免用户误更新到存在问题的版本。",
-  "published_at": "2026-06-04T11:25:00+08:00",
+  "version": "2.0.3",
+  "display_version": "2.0.3",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.3.exe",
+  "sha256": "522e0d6186599f631a950501bca6f0a4043a2b234559e13e2c8e3af72b134878",
+  "notes": "修复覆盖安装后配置空白问题，保留老用户路径、类目设置、模板设置和缓存；新用户自动检索默认开启，模板预设保持空白并由用户首次设置；优化图片检索性能并内置订单导出拆分插件。",
+  "published_at": "2026-06-04T13:15:56+08:00",
   "force": false
 }
