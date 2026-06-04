@@ -1,9 +1,9 @@
 {
-  "version": "2.0.3",
-  "display_version": "2.0.3",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.3.exe",
-  "sha256": "0accfebfbb05f64cd1c92de5f635cec30feace19b1a7e20a84fdfb3e59931f4f",
-  "notes": "修复普通用户安装后无法启动的问题；安装包改为用户目录安装并保留配置/类目/模板/缓存；内置订单导出拆分插件；修复 USPS/FedEx/UPS/GOFO/UNI/SWIFTX/SpeedX 渠道变体误判；修复图片搜索偶发点击后无反馈和旧缓存误判。",
-  "published_at": "2026-06-04T10:45:33+08:00",
+  "version": "2.0.4",
+  "display_version": "2.0.4",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.4.exe",
+  "sha256": "febacd7a79c0e7104e2c0fd2ef3c0f8ff79ab9d58bcb60b0c2f963481c766f00",
+  "notes": "修复 2.0.3 搜索时结果区出现大进度条的问题；安装包补充老用户迁移逻辑，更新时自动迁移旧目录配置、类目、模板和图片搜索缓存，并清理旧快捷方式，避免桌面出现两个图标。",
+  "published_at": "2026-06-04T11:07:21+08:00",
   "force": false
 }
