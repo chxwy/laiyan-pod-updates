@@ -1,9 +1,9 @@
 {
-  "version": "2.0.2",
-  "display_version": "2.0.2",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.2.exe",
-  "sha256": "e338ba7e942e21aefb5438d20d4998a6aa2a38302cc2418fb1ca3a38e40f27aa",
-  "notes": "修复更新安装时覆盖用户 config.json 的问题，保留用户已导入的类目设置、尺寸映射和命名模板；继续内置图床配置以保证图片高清处理可用。",
-  "published_at": "2026-06-02T10:47:28+08:00",
+  "version": "2.0.3",
+  "display_version": "2.0.3",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.3.exe",
+  "sha256": "0accfebfbb05f64cd1c92de5f635cec30feace19b1a7e20a84fdfb3e59931f4f",
+  "notes": "修复普通用户安装后无法启动的问题；安装包改为用户目录安装并保留配置/类目/模板/缓存；内置订单导出拆分插件；修复 USPS/FedEx/UPS/GOFO/UNI/SWIFTX/SpeedX 渠道变体误判；修复图片搜索偶发点击后无反馈和旧缓存误判。",
+  "published_at": "2026-06-04T10:45:33+08:00",
   "force": false
 }
