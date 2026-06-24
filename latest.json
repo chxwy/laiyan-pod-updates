@@ -1,11 +1,12 @@
 {
-  "version": "1.36",
-  "display_version": "1.36",
-  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.36.exe",
-  "sha256": "9EA6C40D483D3EF7A2D511A47FFF47EBF08D4DD463F718F025C4875C9C7A1AAF",
+  "version": "1.37",
+  "display_version": "1.37",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.37.exe",
+  "sha256": "DD03D1A969391F73454FE62936B062F5AE1D83122D952AC263CE716620865FB7",
   "notes": [
-    "素材与模板内容更新",
-    "其他细节优化"
+    "1.37 细节问题修复",
+    "重新打包并更新安装包"
   ],
   "force": false
 }
+
