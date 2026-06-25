@@ -1,11 +1,11 @@
 {
-  "version": "1.37",
-  "display_version": "1.37",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.37.exe",
-  "sha256": "DD03D1A969391F73454FE62936B062F5AE1D83122D952AC263CE716620865FB7",
+  "version": "1.38",
+  "display_version": "1.38",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.38.exe",
+  "sha256": "9BDABD9C7A53896C97DE4EAAF7B1D34490FF2347CA52699416D17054B7D00E22",
   "notes": [
-    "1.37 细节问题修复",
-    "重新打包并更新安装包"
+    "1.38 细节问题修复",
+    "当前版本功能更新"
   ],
   "force": false
 }
