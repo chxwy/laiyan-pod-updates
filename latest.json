@@ -1,11 +1,13 @@
 {
-  "version": "1.38",
-  "display_version": "1.38",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.38.exe",
-  "sha256": "9BDABD9C7A53896C97DE4EAAF7B1D34490FF2347CA52699416D17054B7D00E22",
+  "version": "1.39",
+  "display_version": "1.39",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.39.exe",
+  "sha256": "E212FABEB787FFE9BA26A7FD0F5A1C85B3D78319EB0E8C0ED1B9FEF8AA962092",
   "notes": [
-    "1.38 细节问题修复",
-    "当前版本功能更新"
+    "竞品裂变加入标题设置与编号设置",
+    "修复底板编辑器已知问题",
+    "竞品裂变支持输入多类目参考图输出固定类目产品图",
+    "修复其他已知问题"
   ],
   "force": false
 }
