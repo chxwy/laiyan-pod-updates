@@ -1,10 +1,11 @@
 {
-  "version": "1.41",
-  "display_version": "1.41",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.41.exe",
-  "sha256": "8A7CF6C7E4961DEA93E7F1C080989E681BD276C4B36A3CA1F20C3D70FDF74BB2",
+  "version": "1.42",
+  "display_version": "1.42",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.42.exe",
+  "sha256": "4D0193A549C8A45E4F049BC4EFF96DA9D09822C137CEDE6FC59B03A5A6659F84",
   "notes": [
-    "修复已知问题"
+    "竞品裂变功能可以给工厂打印图单独设置输出比例",
+    "加入更多国家的语言选项"
   ],
   "force": false
 }
