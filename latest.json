@@ -1,14 +1,11 @@
 {
-  "version": "1.44",
-  "display_version": "1.44",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.44.exe",
-  "sha256": "E0DCE04824245B600867F07A7B8F94D1FCABAB4F76266BBF965F1E0EDEE359B5",
+  "version": "1.45",
+  "display_version": "1.45",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.45.exe",
+  "sha256": "C6CAC5D631091BA6826220C668B323D949413451B333568C75F8F842DE5A9D0E",
   "notes": [
-    "增加连续预览功能与删除功能",
-    "单张图不满意抽卡重试功能",
-    "编号增加使用输入图名称模式",
-    "优化底板编辑器多个图层流畅度",
-    "修复部分模板格式导入报错问题"
+    "修复大图预览切换误跳下一组问题",
+    "优化重试交互"
   ],
   "force": false
 }
