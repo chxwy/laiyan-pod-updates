@@ -1,11 +1,11 @@
 {
-  "version": "1.46",
-  "display_version": "1.46",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.46.exe",
-  "sha256": "E3A6F68BF3066FA37420548BB8C66A8A296C4EEA63149F3E41788F9C8D4FFDF0",
+  "version": "1.45",
+  "display_version": "1.45",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.45.exe",
+  "sha256": "C6CAC5D631091BA6826220C668B323D949413451B333568C75F8F842DE5A9D0E",
   "notes": [
-    "修复预览图切换问题",
-    "标题输出适配佳同批量上架功能"
+    "修复大图预览切换误跳下一组问题",
+    "优化重试交互"
   ],
   "force": false
 }
