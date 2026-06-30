@@ -1,11 +1,11 @@
 {
-  "version": "1.46",
-  "display_version": "1.46",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.46.exe",
-  "sha256": "1475F8FCB8E9673FE895CEADD0096ED1C18A3B3700492D6E5DC08D87F182D900",
+  "version": "1.47",
+  "display_version": "1.47",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.47.exe",
+  "sha256": "007C5C02A6B1860B96DE90E201E8001376AA978F33A4B6967917E5F7B2511F71",
   "notes": [
-    "修复预览图切换问题",
-    "标题输出适配佳同批量上架功能"
+    "交互逻辑优化",
+    "增加积分使用显示"
   ],
   "force": false
 }
