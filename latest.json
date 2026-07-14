@@ -1,10 +1,15 @@
 {
-  "version": "1.50",
-  "display_version": "1.50",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.50.exe",
-  "sha256": "F8026597340EA062772E3B86A3DA136064753058DCB7857C64D84139800FDC92",
+  "version": "1.51",
+  "display_version": "1.51",
+  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.51.exe",
+  "sha256": "9B274E6683332689BE12ACBDDA2CE520F2C6575D4F9FB4ACF9F17EAC41006902",
   "notes": [
-    "修复紧急bug"
+    "修复任务失败重试后写标题用图导出是缺失问题",
+    "修复大批量任务执行过程中积分完全足够的情况下，任务途中返回积分不足的错误弹窗报错",
+    "重试队列从3改成50",
+    "竞品裂变重试改为AI技能单个技能框自动重试逻辑，而非整个任务卡片重试",
+    "竞品裂变加入AI技能加入水印功能",
+    "修复竞品裂变保存模板必须点击使用模板按钮才能保存成功的问题"
   ],
   "force": false
 }
