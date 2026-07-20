@@ -1,12 +1,10 @@
 {
-  "version": "1.53",
-  "display_version": "1.53",
-  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.53.exe",
-  "sha256": "78772F8E92F437BC1042D880296BEE0F31EB98927BB6C22F66059B1B83B5DCDA",
+  "version": "1.54",
+  "display_version": "1.54",
+  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.54.exe",
+  "sha256": "82E78C5CAC5149DA8A987EFC56C051A99803FA03738A21FF730906AD16F4E83C",
   "notes": [
-    "修复积分预留计数系统崩溃导致的任务失败问题",
-    "竞品裂变任务处理速度提高10倍、商品套图/图生图套图处理速度提高2倍。",
-    "优化大批量任务处理时的中心调度逻辑，减少失败率"
+    "针对配置差的电脑适配速度档位选择功能"
   ],
   "force": false
 }
