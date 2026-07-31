@@ -1,10 +1,10 @@
 {
-  "version": "1.54",
-  "display_version": "1.54",
-  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.54.exe",
-  "sha256": "AD3D6CBD4BC7246611EE314A6D8A9736EFAD931AB2AFCE8C19D78D093E7C7109",
+  "version": "1.55",
+  "display_version": "1.55",
+  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.55.exe",
+  "sha256": "0D2C0B54B2227E39B547D34D8FC8D515ABF218DC55209160E83C5398A0CD6514",
   "notes": [
-    "针对配置差的电脑适配速度档位选择功能"
+    "供应商渠道更换导致任务架构全面更换，旧版本全部无法使用"
   ],
   "force": false
 }
