@@ -1,9 +1,9 @@
 {
-  "display_version": "2.0.6",
-  "published_at": "2026-08-05T10:54:24+08:00",
-  "sha256": "32476afbdb46edd2228c1e248b857069734ff0169f96a6ebdf3db47021761280",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.7.exe",
+  "sha256": "d1436bff38291e963093ef2c7f6d6e36b9c8b638c64b7ded9b567b41463df5a2",
+  "notes": "修复已知问题",
+  "published_at": "2026-08-05T17:21:19+08:00",
+  "display_version": "2.0.7",
   "force": false,
-  "version": "2.0.6",
-  "notes": "图库支持多个文件夹混合检索以及其他优化",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.6.exe"
+  "version": "2.0.7"
 }
