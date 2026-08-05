@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
-  "display_version": "2.0.5",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.5.exe",
-  "sha256": "daed4dc5ef15652f6ad91325f368bcdb47fd755ddbc475ab9bfdd2bc09b30729",
-  "notes": "新增图片缓存池与索引目录，优化图片搜索速度",
-  "published_at": "2026-06-06T09:41:30+08:00",
+  "version": "2.0.6",
+  "display_version": "2.0.6",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.6.exe",
+  "sha256": "32476afbdb46edd2228c1e248b857069734ff0169f96a6ebdf3db47021761280",
+  "notes": "图库支持多个文件夹混合检索以及其他优化",
+  "published_at": "2026-08-05T10:54:24+08:00",
   "force": false
 }
