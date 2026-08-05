@@ -1,9 +1,9 @@
 {
-  "version": "2.0.7",
-  "display_version": "2.0.7",
-  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.7.exe",
-  "sha256": "ce5f3be566e80d3c39459267b277ae3d0d34a98b0a90f5b120c8b794d6a27c2b",
-  "notes": "修复部分设备的按钮显示问题与安装报错问题",
-  "published_at": "2026-08-05T16:54:59+08:00",
-  "force": false
+  "display_version": "2.0.6",
+  "published_at": "2026-08-05T10:54:24+08:00",
+  "sha256": "32476afbdb46edd2228c1e248b857069734ff0169f96a6ebdf3db47021761280",
+  "force": false,
+  "version": "2.0.6",
+  "notes": "图库支持多个文件夹混合检索以及其他优化",
+  "url": "https://updates.03111214.xyz/y2/releases/Y2_Order_Tool_Setup_2.0.6.exe"
 }
