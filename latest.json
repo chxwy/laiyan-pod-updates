@@ -1,13 +1,10 @@
 {
-  "version": "1.56",
-  "display_version": "1.56",
-  "url": "http://123.57.87.15/laiyan-updates/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.56.exe",
-  "sha256": "355FA926BEE406C6471354EA4A7422E84F857CE4F8BC1F627CF1B32785671EAF",
-  "notes": [
-    "标题生成功能升级为批量标题工具逻辑，支持从批量标题工具一键导入模板迁移，一切都是你熟悉的样子",
-    "增加筛选失败任务后一键删除功能",
-    "优化任务处理架构，增强批量处理稳定性",
-    "修复已知问题"
-  ],
-  "force": false
+    "version":  "1.57",
+    "display_version":  "1.57",
+    "url":  "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.57.exe",
+    "sha256":  "AC1D80CDCA0FBEA3DCF75AB73DD2E667DB2798E6ED204C7FC3879D27F4156C3E",
+    "notes":  [
+                  "修复已知问题"
+              ],
+    "force":  false
 }
