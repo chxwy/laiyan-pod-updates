@@ -1,11 +1,10 @@
 {
-  "version": "1.58",
-  "display_version": "1.58",
-  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.58.exe",
-  "sha256": "D0AF310F30C03651B5A02CDCBA7BB19EB36562036AC68A0D7DCC26E905698FA7",
+  "version": "1.57",
+  "display_version": "1.57",
+  "url": "https://updates.03111214.xyz/releases/%E6%9D%A5%E7%87%95POD%E5%B7%A5%E4%BD%9C%E5%8F%B0_Setup_1.57.exe",
+  "sha256": "AC1D80CDCA0FBEA3DCF75AB73DD2E667DB2798E6ED204C7FC3879D27F4156C3E",
   "notes": [
-    "修复程序崩溃问题",
-    "修复任务执行中的界面卡顿问题"
+    "修复已知问题"
   ],
   "force": false
 }
