@@ -1,12 +1,10 @@
 {
-  "version": "1.58",
-  "display_version": "1.58",
-  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.58.exe",
-  "sha256": "DAD19EDB0666D75D0304D29644C6961602B3D153458C3D0BE25A71F280B9C25D",
+  "version": "1.59",
+  "display_version": "1.59",
+  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.59.exe",
+  "sha256": "CF43E1E6F29D1E86E436D47BCC72BC98CB00003CA405B6CA2FAC424B8F032482",
   "notes": [
-    "修复程序崩溃问题",
-    "优化任务执行中的界面卡顿",
-    "修复图生图套图任务完成时界面闪动和白屏问题"
+    "修复已知问题"
   ],
   "force": false
 }
