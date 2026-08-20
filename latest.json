@@ -1,10 +1,10 @@
 {
-  "version": "1.59",
-  "display_version": "1.59",
-  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.59.exe",
-  "sha256": "CF43E1E6F29D1E86E436D47BCC72BC98CB00003CA405B6CA2FAC424B8F032482",
+  "version": "1.60",
+  "display_version": "1.60",
+  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.60.exe",
+  "sha256": "027F00610E9C105D34ABC67E2B5DF16ED8A712737CE90854279819493A909969",
   "notes": [
-    "修复已知问题"
+    "修改已知问题"
   ],
   "force": false
 }
