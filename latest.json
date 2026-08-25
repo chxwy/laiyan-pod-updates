@@ -1,10 +1,10 @@
 {
-  "version": "1.60",
-  "display_version": "1.60",
-  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.60.exe",
-  "sha256": "027F00610E9C105D34ABC67E2B5DF16ED8A712737CE90854279819493A909969",
+  "version": "1.61",
+  "display_version": "1.61",
+  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.61.exe",
+  "sha256": "6ED8E427CC442EF46FD634727ECD618C67F757FBDB2E2010365574DDBF4CF92C",
   "notes": [
-    "修改已知问题"
+    "修复标题生成崩溃问题"
   ],
   "force": false
 }
