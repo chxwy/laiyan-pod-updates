@@ -1,14 +1,10 @@
 {
-  "version": "1.62",
-  "display_version": "1.62",
-  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.62.exe",
-  "sha256": "4FA8634AB13166BC92D347298EB8CD66B3B1B479311A319EB861D21E8CB352DD",
+  "version": "1.61",
+  "display_version": "1.61",
+  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.61.exe",
+  "sha256": "6ED8E427CC442EF46FD634727ECD618C67F757FBDB2E2010365574DDBF4CF92C",
   "notes": [
-    "解决竞品裂变产品生成中部分图片一致性问题",
-    "修复商品套图和图生图套图输出工厂打印图比例错误问题",
-    "竞品裂变印花裂变模式支持自定义效果设置",
-    "直接套图支持失败重试",
-    "生图模型优化等"
+    "修复标题生成崩溃问题"
   ],
   "force": false
 }
