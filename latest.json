@@ -1,10 +1,10 @@
 {
-  "version": "1.63",
-  "display_version": "1.63",
-  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.63.exe",
-  "sha256": "6CED7C3F3EE81941F081600698934B022B205BE51B1B1BB353C4599507EB72CA",
+  "version": "1.64",
+  "display_version": "1.64",
+  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.64.exe",
+  "sha256": "1798E7B836FC4BD7F0E6879BA88BE6656E5D1A2BCBAC2FDD9A594218D3D3EC11",
   "notes": [
-    "修复已知问题，生图模型回退旧版"
+    "底板编辑器优化"
   ],
   "force": false
 }
