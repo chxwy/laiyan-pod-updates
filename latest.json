@@ -1,11 +1,10 @@
 {
-  "version": "1.66",
-  "display_version": "1.66",
-  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.66.exe",
-  "sha256": "0768197E75C2D2CAB21F878C76A64DBB97287A4A5F22236871045140788D7429",
+  "version": "1.68",
+  "display_version": "1.68",
+  "url": "https://updates.03111214.xyz/releases/来燕POD工作台_Setup_1.68.exe",
+  "sha256": "9768B08371878A777216A5294A696B8B9230F3D3D81FC26EF7C9A50442EA3784",
   "notes": [
-    "修复输入链接文本文件时无法成功生图的问题",
-    "修复大量已知问题"
+    "新增侵权检测功能"
   ],
   "force": false
 }
